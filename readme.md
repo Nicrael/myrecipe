@@ -1,4 +1,4 @@
-# EXAMPLE RECIPE REPOSITORY
+# EXAMPLE RECIPE BOOK
 
 Hello everyone! 
 
