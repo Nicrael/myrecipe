@@ -1,5 +1,5 @@
 # How to make kombutcha
-![kombutcha](https://poppyswildkitchen.com/wp-content/uploads/2020/02/scoby-how-to-grow-recipe.jpg)
+![kombutcha-image](/Users/ad278662/Workspace/gitclass/recipes/images.jpeg)
 
 ## starting from commercial one
 
@@ -20,10 +20,15 @@
 1. Let it ferment for at most 1 week.
 1. Take half of the liquid to drink and use the remaining half to start a new fermentation along with the scoby.
 
+### Second fermentation
+1. Pour the kombutcha in a bottle and add some fruit juice or fruit.
+1. Seal the bottle and put it in the fridge.
+1. Let it ferment for some days.
+1. Open the bottle to release the gas carefully!!!
 
 ### Notes
 - If it's too sweet, let it ferment more.
 - If it's too sour, it's probably become vinegar.
-
+- If the second fermentation is too long it will become alcoholic!
 
 >by Andrea Damonte
